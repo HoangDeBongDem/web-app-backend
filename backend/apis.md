@@ -1,6 +1,7 @@
 # Story Reading Application API Documentation
 
 This document provides a comprehensive list of all API endpoints available in the Story Reading application, along with brief descriptions and testing instructions for Postman.
+**Note: baseURL = localhost:3000/api**
 
 ## Table of Contents
 1. [Authentication](#authentication)
